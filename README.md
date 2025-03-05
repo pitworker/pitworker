@@ -1,7 +1,7 @@
-# Hi I'm Swan! 👩🏻‍💻
+# Hi I'm Swan! 🦢
 
-`they/them`
+`they/them` 🏳️‍⚧️
 
-I'm a software developer building interactive web experiences and embedded code.
+I'm a software developer building interactive web experiences and embedded code. 👩🏻‍💻
 
-Based in New York City.
+Based in New York City. 🗽
